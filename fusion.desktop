@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Fusion
+Comment=Fusion Desktop Environment by Imperial Technologies
+Exec=/usr/local/bin/fusion
+TryExec=/usr/local/bin/fusion
+Type=XSession
+
