@@ -2,6 +2,6 @@
 gnome-do &
 feh --bg-fill /home/chronos/Pictures/sakers.png &
 openbox &
-cairo-dock & 
+docky & 
 compton
 
