@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=Fusion (Cairo)
 Comment=Fusion Desktop Environment by Imperial Technologies
-Exec=/usr/local/bin/fusion
-TryExec=/usr/local/bin/fusion
+Exec=/usr/local/bin/fusionC
+TryExec=/usr/local/bin/fusionC
 Type=XSession
